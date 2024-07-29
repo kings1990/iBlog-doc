@@ -2,6 +2,10 @@
 
 ![](./img/iBlog.png)
 
+
+## 插件开发群
+![](./img/pluginDevelopGroup.png)
+
 ## 简介
 iBlog 是一款专注于提升用户技术水平的博客插件。无论您是在工作之余还是空闲时，iBlog 都能为您提供高质量的博客内容，
 目前 iBlog 涵盖掘金、CSDN、腾讯开发者社区、OSCHINA等多个平台的精选文章。
@@ -31,5 +35,3 @@ iBlog 是一款专注于提升用户技术水平的博客插件。无论您是�
 4. 在收藏列表管理收藏的博客
 5. 双击博客条目打开博客
 
-## 插件开发群
-![](./img/pluginDevelopGroup.png)
